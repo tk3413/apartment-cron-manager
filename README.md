@@ -19,5 +19,3 @@ json format with the following structure and expected data types:
 ### supported statuses
 - "1"
 - "0"
-
-
